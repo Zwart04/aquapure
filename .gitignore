@@ -1,17 +1,8 @@
 node_modules/
-out/
-.next/
-*.log
-.DS_Store
-.env*.local
+dist/
+.wrangler/
 .env
-
-# Generated output and deployment credentials
-/node_modules/
-/.next/
-/out/
-/.open-next/
-/.wrangler/
-.env*
-!.env.example
-*.tsbuildinfo
+.env.*
+.dev.vars
+*.log
+__pycache__/
