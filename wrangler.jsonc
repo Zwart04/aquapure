@@ -24,6 +24,14 @@
     {
       "pattern": "aquapure-app.zwart.qzz.io",
       "custom_domain": true
+    },
+    {
+      "pattern": "farmlog-app.zwart.qzz.io",
+      "custom_domain": true
+    },
+    {
+      "pattern": "carbontrack-app.zwart.qzz.io",
+      "custom_domain": true
     }
   ]
 }
