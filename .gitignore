@@ -5,3 +5,13 @@ out/
 .DS_Store
 .env*.local
 .env
+
+# Generated output and deployment credentials
+/node_modules/
+/.next/
+/out/
+/.open-next/
+/.wrangler/
+.env*
+!.env.example
+*.tsbuildinfo
